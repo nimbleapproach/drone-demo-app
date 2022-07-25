@@ -6,4 +6,4 @@ data:
   deployment_file_dev: kustomizehelloworld/base/deployment.yaml
   deployment_file_prod: kustomizehelloworld/overlays/hw-prod/kustomization.yaml
   docker_registry: paulsregistry80.azurecr.io
-  docker_container: node-test
+  docker_container: node-drone-test
