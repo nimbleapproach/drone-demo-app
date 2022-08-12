@@ -1,9 +1,9 @@
 
 kind: template
-load: node_baseline.yaml
+load: node-baseline.yaml
 data:
   argo_repo: https://github.com/nimbleapproach/argo-demo.git
   deployment_file_dev: kustomizehelloworld/base/deployment.yaml
   deployment_file_prod: kustomizehelloworld/overlays/hw-prod/kustomization.yaml
-  docker_registry: paulsregistry80.azurecr.io
+  docker_registry: paulbnimbleregistry.azurecr.io
   docker_container: node-drone-test
