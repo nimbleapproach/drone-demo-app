@@ -1,5 +1,7 @@
 # Kustomized Helloworld Application
 
+*dev* - [![App Status](https://argo.paulpbrandon.uk/api/badge?name=helloworld-dev&revision=true)](https://argo.paulpbrandon.uk/applications/helloworld-dev), *prod* [![App Status](https://argo.paulpbrandon.uk/api/badge?name=helloworld-dev&revision=true)](https://argo.paulpbrandon.uk/applications/helloworld-prod)
+
 This version of the helloworld app is to demonstrate using drone (and Argo) to handle deployments to different environments.
 
 As such this app uses an environment variable to write out a message, just so that we can prove that different environments are using different images and so on.
