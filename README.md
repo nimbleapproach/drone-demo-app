@@ -1,6 +1,6 @@
 # Kustomized Helloworld Application
 
-*dev* - [![App Status](https://argo.paulpbrandon.uk/api/badge?name=helloworld-dev&revision=true)](https://argo.paulpbrandon.uk/applications/helloworld-dev), *prod* [![App Status](https://argo.paulpbrandon.uk/api/badge?name=helloworld-dev&revision=true)](https://argo.paulpbrandon.uk/applications/helloworld-prod)
+**dev** - [![App Status](https://argo.paulpbrandon.uk/api/badge?name=helloworld-dev&revision=true)](https://argo.paulpbrandon.uk/applications/helloworld-dev), **prod** - [![App Status](https://argo.paulpbrandon.uk/api/badge?name=helloworld-prod&revision=true)](https://argo.paulpbrandon.uk/applications/helloworld-prod)
 
 This version of the helloworld app is to demonstrate using drone (and Argo) to handle deployments to different environments.
 
